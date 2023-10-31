@@ -135,11 +135,11 @@ class _AzkarViewState extends State<AzkarView> {
               ),
             ],
           ),
-          Positioned(
-            child: Image.asset(""),
-            left: 5,
-            bottom: 0,
-          )
+          // Positioned(
+          //   child: Image.asset(""),
+          //   left: 5,
+          //   bottom: 0,
+          // )
         ],
       ),
     );
